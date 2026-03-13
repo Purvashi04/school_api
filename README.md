@@ -2,7 +2,7 @@
 A robust Node.js and Express-based API designed to manage school data. This project allows users to add new schools and retrieve a list of existing schools sorted by their geographical proximity to a user-provided location.
 
 ## Live Demo
-- **API URL:** [Insert your Render.com URL here]
+- **API URL:** https://school-api-e6n3.onrender.com
 - **Database:** MySQL (Hosted on Aiven.io)
 
 ## Features
