@@ -33,5 +33,5 @@ The database consists of a `schools` table with the following structure:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Purvashi04/school_api.git](https://github.com/Purvashi04/school_api.git)
+   git clone [https://github.com/Purvashi04/school_api.git]
    cd school_api
